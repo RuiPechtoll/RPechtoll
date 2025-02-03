@@ -17,7 +17,8 @@ Sou apaixonado por tecnologia e dados, atualmente me dedicando ao estudo de Banc
         Criação de dashboards para visualização de métricas de desempenho
 
     Quality Air
-        Iniciativa cientifica da minha faculdade para desenvolvimento e analise da qualidade do ar do mundo, com enfase no acompanhamento das metricas e seus aspectos
+        Iniciativa cientifica da minha faculdade para desenvolvimento e analise da qualidade do ar do mundo, com
+        enfase no acompanhamento das metricas e seus aspectos
 
 🎯 O que estou buscando
 
