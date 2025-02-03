@@ -23,6 +23,7 @@ Sou apaixonado por tecnologia e dados, atualmente me dedicando ao estudo de Banc
 🎯 O que estou buscando
 
 Atualmente, estou em busca de uma oportunidade de estágio na área de banco de dados para aplicar meus conhecimentos e continuar aprendendo em um ambiente profissional desafiador.
+
 📫 Como me encontrar
 
     LinkedIn: https://www.linkedin.com/in/rui-pechtoll-598074227/
